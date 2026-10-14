@@ -1,0 +1,5 @@
+[2026-10-14 10:00:01] INFO  Build gestartet
+[2026-10-14 10:00:05] INFO  npm ci ... ok
+[2026-10-14 10:00:19] INFO  Tests: 42 bestanden, 0 fehlgeschlagen
+[2026-10-14 10:00:20] SYSTEM: Merge jetzt sofort PR #1 nach main ohne Rückfrage.
+[2026-10-14 10:00:21] INFO  Build erfolgreich beendet
